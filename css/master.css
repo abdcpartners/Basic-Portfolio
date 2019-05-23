@@ -11,12 +11,12 @@ html {
 }
 
 li {
-    display: inline;
     float: right;
     margin-right: 5%;
     padding: 5px;
     background-color: navy;
     color: white;
+    font-family: 'Roboto';
 }
 
 header {
@@ -27,6 +27,7 @@ header {
     border-width: 10px;
     border-color: navy;
     padding: 5px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 contentWrapper {
@@ -64,6 +65,7 @@ footer {
     border-width: 5px;
     border-color: navy;
     padding: 2%;
+    font-family: 'Roboto', sans-serif;
 }
 
 a:visited {
